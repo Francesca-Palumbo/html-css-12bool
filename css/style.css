@@ -1,5 +1,52 @@
 .cella{
     height: 60px;
-    background-color: pink;
     border: 1px solid black;
+    text-align: center;
+    padding-top: 19px;
+}
+
+.titolo{
+    text-align: center;
+    font-size: 25px;
+}
+
+.vuoto{
+    height: 100px;
+    width: 100%;
+    padding-top: 70px;
+}
+.red{
+    background-color: red;
+}
+
+.azzurro{
+    background-color: dodgerblue;
+}
+
+.darkviolet{
+    background-color: darkviolet;
+}
+
+.orchid{
+    background-color: orchid;
+}
+
+.lawngreen{
+    background-color:lawngreen;
+}
+
+.greenyellow{
+background-color: yellowgreen;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.aquamarine{
+    background-color: aquamarine;
 }
